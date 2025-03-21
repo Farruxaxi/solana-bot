@@ -1,0 +1,23 @@
+# requirements.txt - Зависимости проекта
+
+# Flask для веб-сервера
+Flask==2.0.1
+flask-cors==3.0.10
+
+# Библиотеки для работы с MongoDB
+pymongo==4.0.1
+dnspython==2.2.0
+
+# Библиотеки для работы с Solana
+solana==0.28.0
+solders==0.18.1
+base58==2.1.1
+
+# Библиотеки для работы с Telegram
+pyTelegramBotAPI==4.7.0
+
+# Вспомогательные библиотеки
+python-dotenv==0.19.2
+bcrypt==3.2.0
+requests==2.27.1
+pydantic==1.9.0
